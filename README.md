@@ -20,4 +20,8 @@ This path is designed for you to practice HTML, CSS, and basic JavaScript.
 | productinfo | Beginner | HTML and CSS |
 | saaasui | Beginner | HTML and CSS | https://saaas-landing-page.vercel.app
 | weatherAppUI | Beginner | HTML and CSS |
+
 ## Deploying your project
+
+
+View other projects -> https://github.com/Kyl67899/webDevdailyChallenge
